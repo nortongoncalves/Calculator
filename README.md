@@ -8,4 +8,6 @@
 <h2>Para executar o projeto use o comando</h2>
 <code>npm electron</code>
 <hr />
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+</a>
